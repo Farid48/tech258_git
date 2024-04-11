@@ -20,3 +20,18 @@
 ![img_1.png](img_1.png)
 
 * **git add** - After modifying files (Git will know the changes), you have the option to move them over to the "**stage**" process, in which the changes can be tracked <br>
+
+![img_2.png](img_2.png)
+
+* **git commit** - Saves and uploads the changes to the database
+
+![img_3.png](img_3.png)
+
+## gitignore
+* We use .gitignore for files or folders you don't want to see when making changes, such as .idea or files that have confidential information
+* To create a gitignore file, use the command "**nano .gitignore**" which should display a file editor
+* type up the files/folders you don't want to display. After that you should press ctrl X to save, Y for yes and then enter
+
+![img_4.png](img_4.png)
+
+*
