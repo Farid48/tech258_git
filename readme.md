@@ -34,4 +34,14 @@
 
 ![img_4.png](img_4.png)
 
-*
+* Now when using the "git status" command, you will not see those files
+
+![img_5.png](img_5.png)
+
+
+## What does git log and git diff do?
+* git log shows all the previous commits
+* git diff shows the difference between 2 changes (example shown below)
+
+![img_6.png](img_6.png)
+
