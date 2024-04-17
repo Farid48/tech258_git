@@ -13,43 +13,43 @@
 ## Git Commands:
 * **git init** - This initialises the folder as a repository. This creates a new folder, which allows git to manage and track all the changes that occur
 
-![img.png](img.png)
+![img.png](Images%2Fimg.png)
 
 * **git status** - Shows the status of the folder/repo (There is no harm in using this command).
 
-![img_1.png](img_1.png)
+![img_1.png](Images%2Fimg_1.png)
 
 * **git add** - After modifying files (Git will know the changes), you have the option to move them over to the "**stage**" process, in which the changes can be tracked <br>
 
-![img_2.png](img_2.png)
+![img_2.png](Images%2Fimg_2.png)
 
 * **git commit** - Saves and uploads the changes to the database
 
-![img_3.png](img_3.png)
+![img_3.png](Images%2Fimg_3.png)
 
 ## Gitignore
 * We use .gitignore for files or folders you don't want to see when making changes, such as .idea or files that have confidential information
 * To create a gitignore file, use the command "**nano .gitignore**" which should display a file editor
 * type up the files/folders you don't want to display. After that you should press ctrl X to save, Y for yes and then enter
 
-![img_4.png](img_4.png)
+![img_4.png](Images%2Fimg_4.png)
 
 * Now when using the "git status" command, you will not see those files
 
-![img_5.png](img_5.png)
+![img_5.png](Images%2Fimg_5.png)
 
 
 ## What does git log and git diff do?
 * git log shows all the previous commits
 * git diff shows the difference between 2 changes (example shown below)
 
-![img_6.png](img_6.png)
+![img_6.png](Images%2Fimg_6.png)
 
 # Distributed Version Control
 
 ## Diagram:
 
-![img_7.png](img_7.png)
+![img_7.png](Images%2Fimg_7.png)
 
 ## What is GitHub?
 
